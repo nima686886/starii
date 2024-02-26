@@ -1,2 +1,0 @@
-# starii
-test now project
